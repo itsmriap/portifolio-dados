@@ -1,0 +1,11 @@
+id_produto,produto,categoria,quantidade_vendida,preco_unitario,custo_unitario,data_venda
+1,Camisa Social,Moda Masculina,120,150,80,2024-01-10
+2,Vestido Floral,Moda Feminina,95,200,110,2024-01-12
+3,Calça Jeans,Moda Masculina,140,180,95,2024-02-05
+4,Blusa Básica,Moda Feminina,160,90,45,2024-02-15
+5,Tênis Casual,Calçados,85,250,140,2024-03-01
+6,Sandália,Calçados,70,180,95,2024-03-08
+7,Jaqueta Jeans,Moda Feminina,60,300,170,2024-03-20
+8,Bermuda,Moda Masculina,110,120,60,2024-04-02
+9,Saia Midi,Moda Feminina,75,160,85,2024-04-10
+10,Sapato Social,Calçados,55,320,200,2024-04-18
